@@ -1,7 +1,7 @@
 /*
  * Practical Exercise developed by Diego Rivera for Programming Fundamentals class.
  * 28/07/2016
- * Professor Rachel Jeikishore
+ * Professor -------------------
  * This java program processes student details to register them into courses and then
  * displays this information onto the screen by ID, Name, Course and Fee and Also after the
  * third input will display the total fee.
